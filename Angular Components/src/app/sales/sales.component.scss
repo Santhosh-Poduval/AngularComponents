@@ -1,0 +1,27 @@
+.example-container {
+    border: 1px solid rgba(0, 0, 0, 0.5);
+  }
+  
+  .example-sidenav {
+    padding: 20px;
+    width: 50%;
+  }
+  
+  table{
+    width: 100%;
+   }
+  
+  
+  @media screen and (max-width: 500px) {
+    .example-sidenav {
+      width: 100%;
+      
+    }
+  
+    .hide-col {
+      display: none !important;
+  }
+  
+  }
+  
+  
